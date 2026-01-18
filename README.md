@@ -2,8 +2,6 @@
 **Powered by CrewAI + OpenAI GPT-4.1**
 
 
-🌐 **[View Live Application](https://crewai-investor-pitch-coach.vercel.app/)**
-
 > **Transform your startup idea into an investor-ready pitch. Enter your company basics, and watch CrewAI agents craft a compelling deck outline, financial analysis, and prepare you for VC Q&A—all in minutes.** ⚡
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
